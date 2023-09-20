@@ -1,0 +1,13 @@
+/* In your CSS module file, e.g., todo.module.css */
+.todo_container {
+    width: 250px; /* Adjust the width as needed */
+    background-color: #f0f0f0; /* Set the background color */
+    padding: 20px;
+    border-right: 1px solid #ccc; /* Add a border on the right side */
+    /* Add more styling as desired */
+  }
+  
+.todo_item {
+    margin-bottom: 10px; /* Spacing between todo items */
+    /* Add more styling for todo items */
+  }
